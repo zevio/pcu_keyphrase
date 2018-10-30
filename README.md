@@ -4,9 +4,10 @@ Keyphrase extraction component (kleis) for PCU project.
 From a text, extract its keyphrases.
 
 Based on the keyphrase extraction algorithm [kleis][kleis].
+
 [Check PCU project][pcu].
 
-[pcu]: https://github.com/zevio/pcu_chain
+[pcu]: https://github.com/zevio/pcu_core
 [kleis]: https://github.com/sdhdez/kleis-keyphrase-extraction
 
 ----
@@ -27,7 +28,7 @@ Then, add this import line at the beginning of your Python file :
 
 `from pcu_keyphrase import pcu_keyphrase`
 
-You can now use pcu_nlp's functions, for example :
+You can now use pcu_keyphrase's functions, for example :
 
 `pcu_keyphrase.getKeyphrases(text)`
 
