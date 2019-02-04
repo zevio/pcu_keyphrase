@@ -30,7 +30,7 @@ Then, add this import line at the beginning of your Python file :
 
 You can now use pcu_keyphrase's functions, for example :
 
-`pcu_keyphrase.getKeyphrases(text)`
+`pcu_keyphrase.extractKeyphrases(text)`
 
 ## Test
 
