@@ -5,12 +5,14 @@ From a text, extract its keyphrases.
 
 Based on the keyphrase extraction algorithm [kleis][kleis].
 
+![keyphrase](https://framapic.org/mEJuLct7M2MD/Ks9ztUt8pqO3.png)
+
+----
+
 [Check PCU project][pcu].
 
 [pcu]: https://github.com/zevio/pcu_core
 [kleis]: https://github.com/sdhdez/kleis-keyphrase-extraction
-
-----
 
 ## Installation
 
